@@ -1,0 +1,37 @@
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+/* .game-container {
+  width: 600px;
+  height: 400px;
+  border: 1px solid black;
+  position: relative;
+}
+
+.player {
+  background-color: black;
+  height:10px;
+  width: 100px;
+  position: absolute;
+}
+
+.ball {
+  background-color: black;
+  height:10px;
+  width: 10px;
+  border-radius: 10px;
+  position: absolute;
+}
+
+.bricks {
+  background-color: blue;
+  height:20px;
+  width: 40px;
+  position: absolute;
+  top: 50px;
+  left: 280px;
+} */
